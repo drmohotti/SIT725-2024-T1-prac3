@@ -10,16 +10,16 @@
 
 const cardList = [
     {
-        title: "Kitten 2",
+        title: "Research with us",
         image: "images/kitten2.jpg",
-        link: "About Kitten 2",
-        desciption: "Demo desciption about kitten 2"
+        link: "Explore our events and get involved",
+        desciption: "xxxxxxxxxxxxx"
     },
     {
-        title: "Kitten 3",
+        title: "Find your career",
         image: "images/kitten3.jpg",
-        link: "About Kitten 3",
-        desciption: "Demo desciption about kitten 3"
+        link: "Career stories, Read our student success stories",
+        desciption: "xxxxxxxxxxxxx"
     }
 ]
 const clickMe = () => {
